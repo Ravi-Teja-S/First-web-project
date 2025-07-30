@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Rewrite URLs like /about-us to /about-us.php
+RewriteRule ^about-us$ about-us.php [L]
+RewriteRule ^gallery$ gallery.php [L]
+RewriteRule ^shop-now$ shop-now.php [L]
+RewriteRule ^contact-us$ contact-us.php [L]
+
+# # Optional: homepage as /
+# DirectoryIndex index.php
