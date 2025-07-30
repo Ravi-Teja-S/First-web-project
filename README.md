@@ -6,7 +6,7 @@ THIS IS OUR BUSINESS WEBSITE.<BR> DESIGNED USING HTML CSS AND JAVASCRIPT.
 Welcome to **Traditional Arts of India** – a platform where we showcase the beauty and craftsmanship of India’s rich cultural heritage. Our website is dedicated to sharing and promoting traditional arts, hand-crafted items, and artistic expressions from across India. Explore our site to learn more about our products, their cultural significance, and our journey in preserving these art forms.
 
 ### Live Website:
-You can view the live website here: [https://traditional-arts-of-india.lovestoblog.com](https://www.traditional-arts-of-india.lovestoblog.com)
+You can view the live website here: [https://traditional-arts-of-india.lovestoblog.com](https://traditional-arts-of-india.lovestoblog.com)
 
 ## Table of Contents
 
