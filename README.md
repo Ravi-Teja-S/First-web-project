@@ -45,3 +45,16 @@ To run the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+## Contributing
+
+Contributions are welcome! Here's how you can contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
