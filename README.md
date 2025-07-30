@@ -1,12 +1,12 @@
 # First-web-project
-THIS IS OUR VERY OWN BUSINESS WEBSITE.<BR> DESIGNED USING HTML CSS AND JAVASCRIPT.
+THIS IS OUR VERY OWN BUSINESS WEBSITE.<BR> DESIGNED USING HTML, CSS, JAVASCRIPT, PHP AND MYSQL.
 
 # Traditional Arts of India
 
 Welcome to **Traditional Arts of India** – a platform where we showcase the beauty and craftsmanship of India’s rich cultural heritage. Our website is dedicated to sharing and promoting traditional arts, hand-crafted items, and artistic expressions from across India. Explore our site to learn more about our products, their cultural significance, and our journey in preserving these art forms.
 
 ### Live Website:
-You can view the live website here: [https://traditional-arts-of-india.lovestoblog.com](https://traditional-arts-of-india.lovestoblog.com)
+You can view the live website here: [https://traditional-arts-of-india.lovestoblog.com](https://traditional-arts-of-india.lovestoblog.com)</br>{HOSTED AT infinityfree.com}
 
 ## Table of Contents
 
