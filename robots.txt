@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://traditional-arts-of-india.lovestoblog.com/sitemap.xml
+Allow: /favicon.png
