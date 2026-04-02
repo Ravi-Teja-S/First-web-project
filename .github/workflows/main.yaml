@@ -27,6 +27,14 @@ jobs:
         
         # This tells the 'robot' to upload everything from your GitHub root
         local-dir: ./
+
+        exclude: |
+          .github/
+          .git/
+          .vscode/
+          .env
+          README.md
+          main.yaml
         
         # Set to false so it doesn't delete important system files 
         # that InfinityFree puts there by default
