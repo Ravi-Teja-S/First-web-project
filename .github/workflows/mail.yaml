@@ -1,0 +1,33 @@
+name: Deploy to InfinityFree
+
+# This trigger ensures that every time you 'git push', the website updates
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  web-deploy:
+    name: 🚀 Sync Local to Server
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+
+    - name: 📂 FTP Upload to htdocs
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        # Use the secrets we set up in GitHub Settings
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        
+        # IMPORTANT: InfinityFree requires files to be inside htdocs
+        server-dir: htdocs/
+        
+        # This tells the 'robot' to upload everything from your GitHub root
+        local-dir: ./
+        
+        # Set to false so it doesn't delete important system files 
+        # that InfinityFree puts there by default
+        dangerous-clean-slate: false
