@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Traditional Arts of India</title>
+    <title>The Traditional Arts of India</title>
     <meta name="description" content="Explore India's rich cultural heritage through its traditional art forms. Discover, learn, and celebrate the legacy.">
     <link rel="stylesheet" href="/css/styles.min.css">
     <link rel="icon" sizes="48x48" href="/favicon.png" type="image/png">
